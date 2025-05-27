@@ -93,7 +93,7 @@ While the Titanic tragedy is historical, the skills and techniques learned are a
 
 **✈️ Aviation and Maritime Safety**
 
-*8⚠️ Disaster risk reduction and management**
+**⚠️ Disaster risk reduction and management**
 
 **🚗 Insurance risk modeling**
 
